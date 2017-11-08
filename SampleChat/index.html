@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="Scripts/jquery-1.9.1.js"></script>
+    <script src="Scripts/jquery.signalR-2.2.0.js"></script>
+    <script src="signalr/hubs"></script>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/sampleChat.js"></script>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="scripts/bootstrap.min.js"></script>
+    <link href="Content/chats.css" rel="stylesheet" />
+ </head>
+<body>
+<div class="container" ng-app="chat-app">
+  <div class="row" ng-controller="ChatController">
+        <div class="col-md-2">
+            <ul class="nav nav-pills nav-stacked">
+                <li ng-class="{ active: isSet('Lobby') }">
+                    <a href ng-click="setTab('Lobby')">Lobby</a>
+                </li>
+                <li ng-class="{ active: isSet('Friends') }">
+                    <a href ng-click="setTab('Friends')">Friends</a>
+                </li>
+                <li ng-class="{ active: isSet('Family') }">
+                    <a href ng-click="setTab('Family')">Family</a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-md-8">
+            <div class="jumbotron">
+                <foo-bar></foo-bar>
+                <script type="text/ng-template" id="bookmarks.html">
+                    <div ng-repeat='bookmark in bookmarks'>   
+                        <div ng-show="isSet(bookmark.name)">
+                            <h1>{{bookmark.name}} chat</h1>
+                            <p>Welcome to the {{bookmark.name}} chat!</p>
+                            <div class="row">
+                                Name: <input type="text" class="form-control" ng-model="user.name" /><br />
+                                Message: <input type="text" class="form-control" ng-model="user.message" /><br />
+                                <input type="button" class="btn btn-default" value="Send" ng-click="newMessage(bookmark.name)" />
+                            </div>
+                            <br />
+                            <div class="row">
+                                <ul>
+                                    <li ng-repeat="chat in messages track by $index">
+                                        <span ng-bind="chat"></span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </script>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+
+
+
+

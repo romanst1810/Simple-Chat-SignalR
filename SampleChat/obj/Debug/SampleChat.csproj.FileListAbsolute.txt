@@ -1,0 +1,176 @@
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\ApplicationInsights.config
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\roslyn\csc.exe
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\roslyn\System.Collections.Immutable.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\roslyn\System.Reflection.Metadata.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\roslyn\vbc.exe
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\roslyn\VBCSCompiler.exe
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\roslyn\VBCSCompiler.exe.config
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\SampleChat.dll.config
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\SampleChat.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\SampleChat.pdb
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AI.Agent.Intercept.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AI.DependencyCollector.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AI.Web.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AI.WindowsServer.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.ApplicationInsights.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.Owin.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.Owin.Security.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.Web.Infrastructure.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Newtonsoft.Json.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Owin.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\System.Web.Helpers.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\System.Web.Mvc.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\System.Web.Razor.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\System.Web.Webpages.Deployment.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\System.Web.Webpages.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\System.Web.Webpages.Razor.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AI.DependencyCollector.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AI.Web.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AI.WindowsServer.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.ApplicationInsights.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.Owin.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Microsoft.Owin.Security.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\Newtonsoft.Json.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\System.Web.Razor.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\System.Web.Webpages.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\System.Web.Webpages.Deployment.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\System.Web.Webpages.Razor.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\System.Web.Helpers.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\bin\System.Web.Mvc.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\obj\Debug\SampleChat.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat\SampleChat\obj\Debug\SampleChat.pdb
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\ApplicationInsights.config
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\roslyn\csc.exe
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\roslyn\System.Collections.Immutable.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\roslyn\System.Reflection.Metadata.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\roslyn\vbc.exe
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\roslyn\VBCSCompiler.exe
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\roslyn\VBCSCompiler.exe.config
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\SampleChat.dll.config
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\SampleChat.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\SampleChat.pdb
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.Agent.Intercept.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.DependencyCollector.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.Web.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.WindowsServer.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.ApplicationInsights.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.Owin.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.Owin.Security.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.Web.Infrastructure.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Newtonsoft.Json.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Owin.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\System.Web.Helpers.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\System.Web.Mvc.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\System.Web.Razor.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\System.Web.Webpages.Deployment.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\System.Web.Webpages.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\System.Web.Webpages.Razor.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.DependencyCollector.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.Web.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.WindowsServer.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.ApplicationInsights.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.Owin.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Microsoft.Owin.Security.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\Newtonsoft.Json.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\System.Web.Razor.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\System.Web.Webpages.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\System.Web.Webpages.Deployment.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\System.Web.Webpages.Razor.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\System.Web.Helpers.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\bin\System.Web.Mvc.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\obj\Debug\SampleChat.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\obj\Debug\SampleChat.pdb
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver2.0\SampleChat\obj\Debug\SampleChat.csprojResolveAssemblyReference.cache
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\ApplicationInsights.config
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\roslyn\csc.exe
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\roslyn\System.Collections.Immutable.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\roslyn\System.Reflection.Metadata.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\roslyn\vbc.exe
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\roslyn\VBCSCompiler.exe
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\roslyn\VBCSCompiler.exe.config
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\SampleChat.dll.config
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\SampleChat.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\SampleChat.pdb
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.Agent.Intercept.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.DependencyCollector.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.Web.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.WindowsServer.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.ApplicationInsights.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.Owin.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.Owin.Security.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.Web.Infrastructure.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Newtonsoft.Json.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Owin.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\System.Web.Helpers.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\System.Web.Mvc.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\System.Web.Razor.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\System.Web.Webpages.Deployment.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\System.Web.Webpages.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\System.Web.Webpages.Razor.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.DependencyCollector.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.Web.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AI.WindowsServer.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.ApplicationInsights.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.Owin.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Microsoft.Owin.Security.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\Newtonsoft.Json.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\System.Web.Razor.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\System.Web.Webpages.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\System.Web.Webpages.Deployment.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\System.Web.Webpages.Razor.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\System.Web.Helpers.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\bin\System.Web.Mvc.xml
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\obj\Debug\SampleChat.dll
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\obj\Debug\SampleChat.pdb
+D:\0000 WEB_Projects Visual Studio\29 Learning Examples\SampleChat ver3.0. with templates\SampleChat ver2.0\SampleChat\obj\Debug\SampleChat.csprojResolveAssemblyReference.cache
